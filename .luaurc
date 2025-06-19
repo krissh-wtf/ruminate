@@ -1,0 +1,8 @@
+{
+	"languageMode": "strict",
+	"lint": {
+		"*": false
+	},
+	"lintErrors": false,
+	"typeErrors": true
+}
