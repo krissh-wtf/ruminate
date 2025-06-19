@@ -1,0 +1,1 @@
+local FPSys = require(script.Parent):Start()
